@@ -1,0 +1,2 @@
+# staticres
+static resource
